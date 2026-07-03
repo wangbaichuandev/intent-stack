@@ -9,6 +9,7 @@
     "prepare": "vp config"
   },
   "devDependencies": {
+    "@intent-stack/core": "workspace:*",
     "vite": "catalog:",
     "vite-plus": "catalog:"
   },
